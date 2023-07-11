@@ -1,4 +1,4 @@
-# React-JS-Crash-Course
+# React-JS
 
 [<img alt="React JS Crash Course | Build Portfolio Website With React JS" width="100%" src="https://github.com/tech2etc/Youtube-Tutorials/blob/main/React%20JS%20Crash%20Course%20Build%20Portfolio%20Website%20With%20React%20JS.PNG?raw=true" />](https://youtu.be/0h2b4ftbZcU/)
 
